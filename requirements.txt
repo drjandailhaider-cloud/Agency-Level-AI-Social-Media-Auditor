@@ -1,0 +1,8 @@
+streamlit
+instaloader
+beautifulsoup4
+requests
+pandas
+reportlab
+sqlite3
+textblob
